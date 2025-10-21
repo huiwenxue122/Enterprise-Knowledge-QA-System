@@ -79,10 +79,11 @@ Generate Answers → The LLM formulates a context-aware answer based on retrieve
 └── result/                # Local folder for outputs (ignored by Git)
 ```
 ## 📸 Example UI
-
+![image](image.png)
 ## 🧑‍💻 Author
 
 ## Caire Xue
+
 
 
 
