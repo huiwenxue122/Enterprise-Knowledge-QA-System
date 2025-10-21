@@ -71,17 +71,19 @@ Ask Questions → User queries are embedded and matched against the stored docum
 Generate Answers → The LLM formulates a context-aware answer based on retrieved content.
 
 ## 📂 Project Structure
+```
 ├── rag_app.py             # Main Streamlit app
 ├── requirements.txt       # Python dependencies
 ├── .env                   # Your API key (excluded from Git)
 ├── .gitignore
 └── result/                # Local folder for outputs (ignored by Git)
-
+```
 ## 📸 Example UI
 
 ## 🧑‍💻 Author
 
 ## Caire Xue
+
 
 
 
