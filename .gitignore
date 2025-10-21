@@ -2,18 +2,28 @@
 __pycache__/
 *.pyc
 
-# Virtual env
+# Virtual environments
 .ekqs_env/
+.venv/
 .lcenv/
 
-# macOS
+# macOS system files
 .DS_Store
 
-# Local secrets
+# Local environment files
 .env
 
-# Local outputs / artifacts
+# Streamlit / result folders
 result/
-data/
-*.db
-EOF
+streamlit/
+
+# Jupyter / testing
+.ipynb_checkpoints/
+.pytest_cache/
+
+# IDE / tooling
+.vscode/
+.idea/
+.mypy_cache/
+.ruff_cache/
+.python-version
