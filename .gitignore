@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.ekqs_env/
+.lcenv/
+
+# macOS
+.DS_Store
+
+# Local secrets
+.env
+
+# Local outputs / artifacts
+result/
+data/
+*.db
+EOF
