@@ -78,26 +78,26 @@ The system combines retrieval-based search with generation-based reasoning, form
 
 ## ⚙️ Setup and Run Locally
 1️⃣ Clone the Repository
-bash
-复制代码
+```
 git clone https://github.com/huiwenxue122/Enterprise-Knowledge-QA-System-Clean.git
 cd Enterprise-Knowledge-QA-System-Clean
+```
 2️⃣ Create Environment & Install Dependencies
-bash
-复制代码
+```
 python3 -m venv ekqs_env
 source ekqs_env/bin/activate
 pip install -r requirements.txt
+```
 3️⃣ Configure OpenAI API Key
 Create a .env file in the project root:
 
-ini
-复制代码
+```
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxx
+```
 4️⃣ Run the App
-bash
-复制代码
+```
 streamlit run rag_app.py
+```
 Then open http://localhost:8501 in your browser.
 ---
 ## 📁 Project Structure
@@ -119,15 +119,15 @@ Enterprise-Knowledge-QA-System-Clean/
 └── README.md
 ```
 ## 💡 Technologies Used
-Component	Technology
-Frontend	Streamlit
-LLM	OpenAI GPT-4o-mini
-Embeddings	OpenAI text-embedding-3-small
-Document Loader	PyPDFLoader
-Text Splitter	LangChain RecursiveCharacterTextSplitter
-Vector Store	FAISS
-Environment	Python 3.11
-Deployment	Localhost / Streamlit Cloud (optional)
+|Component	|Technology|
+|Frontend	|Streamlit|
+|LLM	|OpenAI GPT-4o-mini|
+|Embeddings	|OpenAI text-embedding-3-small|
+|Document Loader	|PyPDFLoader|
+|Text Splitter|	LangChain RecursiveCharacterTextSplitter|
+|Vector Store	|FAISS|
+|Environment|	Python 3.11|
+|Deployment|	Localhost / Streamlit Cloud (optional)|
 
 ---
 ## ✨ Future Improvements
@@ -147,6 +147,7 @@ Graduate Student | AI & NLP Enthusiast
 🔗 GitHub Profile
 
 🌟 If you like this project, please give it a ⭐ on GitHub!
+
 
 
 
