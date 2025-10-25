@@ -25,11 +25,11 @@ Below are screenshots showing the system in action:
 
 | Step | Screenshot |
 |------|-------------|
-| 🏁 Upload PDFs | ![Upload Interface](docs/image.png) |
-| ⚙️ Documents Indexed | ![Indexed](docs/result1.png) |
-| 💬 Example QA (Financial Data) | ![Example QA 1](docs/result2.png) |
-| 📄 Example QA (Summary) | ![Example QA 2](docs/result3.png) |
-| ❓ Context Check (Irrelevant Query) | ![Example QA 3](docs/result4.png) |
+| 🏁 Upload PDFs | ![Upload Interface](result/image.png) |
+| ⚙️ Documents Indexed | ![Indexed](result/result1.png) |
+| 💬 Example QA (Financial Data) | ![Example QA 1](result/result2.png) |
+| 📄 Example QA (Summary) | ![Example QA 2](result/result3.png) |
+| ❓ Context Check (Irrelevant Query) | ![Example QA 3](result/result4.png) |
 
 Each stage shows how the app:
 - Processes and indexes PDFs  
@@ -151,6 +151,7 @@ Graduate Student | AI & NLP Enthusiast
 🔗 GitHub Profile
 
 🌟 If you like this project, please give it a ⭐ on GitHub!
+
 
 
 
