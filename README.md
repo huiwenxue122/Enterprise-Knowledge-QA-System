@@ -119,15 +119,19 @@ Enterprise-Knowledge-QA-System-Clean/
 └── README.md
 ```
 ## 💡 Technologies Used
-|Component	|Technology|
-|Frontend	|Streamlit|
-|LLM	|OpenAI GPT-4o-mini|
-|Embeddings	|OpenAI text-embedding-3-small|
-|Document Loader	|PyPDFLoader|
-|Text Splitter|	LangChain RecursiveCharacterTextSplitter|
-|Vector Store	|FAISS|
-|Environment|	Python 3.11|
-|Deployment|	Localhost / Streamlit Cloud (optional)|
+
+
+| Component | Technology |
+|------------|-------------|
+| Frontend | Streamlit |
+| LLM | OpenAI GPT-4o-mini |
+| Embeddings | OpenAI text-embedding-3-small |
+| Document Loader | PyPDFLoader |
+| Text Splitter | LangChain RecursiveCharacterTextSplitter |
+| Vector Store | FAISS |
+| Environment | Python 3.11 |
+| Deployment | Localhost / Streamlit Cloud (optional) |
+
 
 ---
 ## ✨ Future Improvements
@@ -147,6 +151,7 @@ Graduate Student | AI & NLP Enthusiast
 🔗 GitHub Profile
 
 🌟 If you like this project, please give it a ⭐ on GitHub!
+
 
 
 
