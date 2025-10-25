@@ -14,7 +14,8 @@ __pycache__/
 .env
 
 # Streamlit / result folders
-result/
+# result/
+
 streamlit/
 
 # Jupyter / testing
